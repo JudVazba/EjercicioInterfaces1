@@ -1,0 +1,12 @@
+static void Main(){
+
+
+class Animal {
+    protected string tipo;
+
+    public Animal(string tipo)
+}
+
+}
+
+
